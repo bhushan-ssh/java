@@ -1,3 +1,3 @@
 # Java
 
-learnign Java 
+learning Java 
