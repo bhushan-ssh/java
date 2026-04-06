@@ -14,7 +14,8 @@ public class Add_upto_n{
         }
         return termSum;
     }
-   
+
+     
     public static void main(String[] args){
     Scanner scanner = new Scanner(System.in);
 
