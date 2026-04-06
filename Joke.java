@@ -19,6 +19,7 @@ public class Joke {
                 System.out.println("I am not in mood to tell a joke");  
         }
     }
+    
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
