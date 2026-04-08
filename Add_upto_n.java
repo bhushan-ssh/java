@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 
 
+
 public class Add_upto_n{
      public static int add(int n){
 
