@@ -9,4 +9,5 @@ public class InvertedTriangle {
             System.out.println();
         }
     }
+    
 }
