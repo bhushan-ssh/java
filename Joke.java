@@ -1,6 +1,8 @@
 import java.util.Scanner;
 public class Joke {
 
+
+    
     static void TellJoke(int a) {
         switch (a) {
             case 0:
