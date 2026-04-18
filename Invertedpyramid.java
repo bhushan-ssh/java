@@ -12,6 +12,7 @@ public public class InvertedPyramid {
             System.out.println();
         }
     }
+    
 } {
     
 }
