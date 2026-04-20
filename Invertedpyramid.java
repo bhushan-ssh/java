@@ -9,6 +9,7 @@ public class Invertedpyramid {
                 System.out.print("*");
             }
             
+
             System.out.println();
         }
     }
