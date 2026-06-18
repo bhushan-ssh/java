@@ -18,21 +18,6 @@ public class CountDigits {
                 count++;
             }
         }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        
         System.out.println("Number of digits = " + count);
 
         sc.close();
