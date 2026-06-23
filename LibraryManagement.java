@@ -110,8 +110,6 @@ public class LibraryManagement {
 
 
         book.display();
-
-
         sc.close();
 
     }
