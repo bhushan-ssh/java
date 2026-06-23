@@ -84,11 +84,7 @@ public class BankAccount {
 
         account.withdraw(withdraw);
 
-
-
         account.display();
-
-
         sc.close();
 
     }
