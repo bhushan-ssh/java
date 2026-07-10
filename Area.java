@@ -1,5 +1,7 @@
 import java.util.*;
 
+
+
 class rectangle {
    
         int w;
