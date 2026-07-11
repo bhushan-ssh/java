@@ -1,9 +1,9 @@
 import java.util.*;
-
-
-
 class rectangle {
    
+
+
+    
         int w;
         int h;
         public void setw(int w) {
