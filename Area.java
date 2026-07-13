@@ -1,9 +1,5 @@
 import java.util.*;
 class rectangle {
-   
-
-
-    
         int w;
         int h;
         public void setw(int w) {
@@ -16,6 +12,8 @@ class rectangle {
             return w * h;
         }
     }
+
+    
 public class Area {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
