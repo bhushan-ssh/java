@@ -23,10 +23,6 @@ public class Add_upto_n{
         int n = scanner.nextInt();
         System.out.println("The sum of squares upto " + n + " is " + add(n));
         // Calling the add method
-        
-
-
-
         scanner.close();
     }
 }
